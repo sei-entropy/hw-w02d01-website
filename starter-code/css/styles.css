@@ -1,0 +1,73 @@
+body {
+    background-color: aliceblue;
+    padding: 20px;
+}
+
+header {
+    border-top: 3px solid black;
+    padding-top: 25px;
+}
+
+main {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 10px;
+    width: 85%;
+    margin: 5px auto;
+}
+
+li.link {
+    display: inline;
+}
+
+h1 {
+    text-align: center;
+}
+
+img.personal {
+    float: right;
+    width: 200px;
+    height: 250px;
+    margin: 6px;
+    margin-right: 0;
+}
+
+img {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+footer, nav {
+    text-align: center;
+}
+
+footer {
+    border-bottom: 3px solid black;
+    padding-bottom: 20px;
+}
+
+footer a, nav a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+footer a:hover, nav a:hover {
+    text-decoration: underline;
+    font-size: larger;
+}
+
+.inactive {
+    text-decoration: underline;
+}
+
+.active {
+    font-style: italic;
+}
