@@ -1,0 +1,104 @@
+.logo {
+    margin: auto;
+    float:right;
+    border: 1px solid #ccc;
+    width: 180px;
+    padding: 5px;
+    display: block;
+
+}
+  
+ .vl{
+    border: 6px solid black;
+    position: relative;
+    margin-left: -3px;
+    
+    
+ }
+ .vl2{
+    border: 1px solid black;
+    position: relative;
+ }
+ .vl3{
+
+    border: 6px solid black;
+    position: relative;
+    margin-left: -3px;
+ }
+ .vl4{
+    border: 1px solid black;
+    position: relative;
+ }
+  a{
+      color: black;
+  
+  }
+  h1{
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+  }
+  h2{
+    font-style: oblique;
+    text-align: justify;
+    text-align: left;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+  
+  p{
+    font-size: 20px ;
+    color: gray;
+    text-align: left;
+    line-height: 0.7;
+    margin: auto;
+    width: 60%;
+ padding: 10px;
+  }
+  li {
+    display: inline;
+    text-align: center;
+  }
+  div{
+  
+    text-align: center;
+    line-height: 2;
+    color: gray;
+  }
+  h4{
+    font-style: oblique;
+    text-align: justify;
+    text-align: left;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+  span{
+    font-style:broad;
+    flood-color: gray;
+  }
+  .picture{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+     border: 1px solid black;
+  }
+  ol{
+    font-weight: bold;
+    display: inline;
+  
+  }
+  A{
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  body{
+    background-color: gainsboro;
+  }
