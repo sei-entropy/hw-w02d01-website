@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    margin: auto;
+    background-color: skyblue ;
+     color:white;
+}
+header{
+    border: 5px  solid rgb(194, 185, 185) ;
+    text-transform: uppercase;
+    display:inline-block;
+    padding: 5px 0px;
+}
+ 
+h1{
+    font-size: 50px;
+}
+
+footer{
+    padding:18px 0;
+    text-align:center;
+  }
+  img{
+width: 189px;
+height: 189px;
+margin-top: 50px;
+border: 5px solid rgb(194, 185, 185) ;
+
+  }
+  #ed{
+    color: grey;
+    background-color: rgba(10, 126, 141,0.1);
+    }
+
+    lo {
+    text-align:center;
+    }
+    a{
+
+    color:white;
+
+    }
