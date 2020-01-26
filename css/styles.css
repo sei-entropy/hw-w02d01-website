@@ -1,0 +1,95 @@
+.container {
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+}
+
+hr { 
+    height: 10px; 
+    width: 90%;
+    background: black; 
+    margin-top: 65px;
+    margin-bottom: 40px;
+}
+
+.container hr {
+    height: 2px;
+}
+
+a {
+    color: black;
+}
+
+header {
+    margin: 7% 0;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+h1 {
+    margin-top: 10px;
+    font: bold 50px Georgia, serif;
+}
+
+h3 {
+    font: bold 33px Georgia, serif;
+    margin-bottom: 30px;
+    margin-top: 50px;
+    line-height: 45px;
+}
+
+p {
+    font-size: 28px;
+    line-height: 40px;
+}
+
+main {
+    width: 45%;
+    text-align: left;
+    margin-left: 4%;
+}
+
+img {
+    border: 1px solid black;
+    padding: 10px;
+    height: 50%;
+    width: 30%;
+    position: absolute;
+    right: 15%;
+    top: 60%;
+}
+
+.expirence {
+    width: 90%;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+#awesome {
+    font-weight: 900;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+
+.portfolio {
+    text-align: left;
+    margin-left: 5%;
+}
+
+.portfolio h4 {
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+li {
+    list-style-type: square;
+}
+
+#web-dev {
+    font-style: italic;
+    font-weight: 900;
+}
