@@ -1,0 +1,95 @@
+header,h1{
+    
+    color:	#7092a3;
+    padding: 30px;
+    font-family: serif;
+    letter-spacing: 3px;
+    font-size: 40px ;
+    font-weight: 500px;
+    margin-left: 500px;
+    margin-right: 500px;
+  
+  }
+  body {
+  text-align: center;
+  margin: 0;
+  background-color: #ebfff5;
+  
+  }
+
+
+  img{
+    margin-top: 50px;
+    border: 5px 	#6cbdc0 solid ;
+    
+    }
+  
+  
+  h2 ,h3 {
+    text-align: left;
+    padding-top: 50px;
+    padding-left: 150px;
+    font-family: "Droid Serif";
+    color: #06273c;
+    font-size: 25px;
+    font-weight: 600px;
+  
+  }
+.help { 
+    font-size: 10px ;
+    color : #dd1c1c; 
+}
+ .P1{
+     font-size: 20px;
+     background-color:#6cbdc0;
+     color:#FFF;
+     padding: 100px;
+ }
+ P{
+     text-align: left;
+     padding-left: 150px;
+    font-size: 18px;
+    color: #06273c;
+}
+ 
+ li{
+    font-size: 18px;
+    text-align: left;
+    color:#06273c; 
+ }
+ ul { 
+    text-align: left;
+    padding-left: 150px;
+     margin-bottom: 50px;
+ }
+
+
+  a {
+  margin-right: 20px;
+  margin-left: 20px;
+  color: #FFF;
+  font-family: serif;
+  font-size: 18px;
+  font-weight: 500px;
+  text-transform: uppercase;
+  }
+
+
+  
+  nav{
+    background-color:	#6cbdc0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  footer{
+
+    text-align: left;
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: #06273c;
+    color:#FFF;
+    font-size: 14px;
+    font-weight: 200;
+
+  }
