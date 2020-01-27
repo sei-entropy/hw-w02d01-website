@@ -1,0 +1,133 @@
+body
+{
+	background-image: url('elegant-white.jpg');
+	background-attachment: fixed;
+	overflow: visible;
+}
+
+span
+{
+	text-align: center;
+	font-family: "Arial Black", Gadget, sans-serif;
+	position: relative;
+	float: none;
+}
+
+blockquote
+{
+	text-align: center;
+	direction: ltr;
+	line-height: 25px;
+	text-transform: capitalize;
+	font-size: medium;
+	font-weight: 400px;
+}
+
+q
+{
+	text-transform: uppercase;
+	word-spacing: 4px
+}
+
+img
+{
+	width: 1250px;
+	border: 2px solid #bdc3c7;
+}
+
+.quot2
+{
+	margin-top: 30px;
+}
+
+.form2
+{
+	margin: 20px 80px;
+}
+
+.form2:after
+{
+	margin-top: 40px;
+	content: "if you have any question, please contact me:)";
+	display: block;
+	color: rgb(235, 59, 90);
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-weight: bold;
+}
+
+input
+{
+	margin-bottom: 10px;
+}
+
+input[type="checkbox"]
+{
+	padding: 10px;
+}
+
+input[type="text"]
+{
+	margin-left: 10px;
+}
+
+input[name="Subject"]
+{
+	margin-left: 1px;
+}
+
+
+input[class="input4"]
+{
+    width: 100px;
+	height: 40px;
+	margin-left: 258px;
+}
+
+
+textarea
+{
+	margin-left: 55px;
+	width: 300px;
+	height: 80px;
+}
+
+
+h2
+{
+	font-family: inherit;
+	font-size: inherit;
+	font-style: inherit;
+	font-weight: bold;
+	text-transform: capitalize;
+	line-height: 2em;
+	padding: 0 3px;
+	margin:0px 0px 50px 500px; 
+	color: white;
+	background-color: rgb(164, 176, 190);
+	position: absolute;
+	display: inline-block;
+	text-align: center;
+}
+
+footer
+{
+	margin-top: 50px;
+}
+
+.input1, .input2
+{
+	width: 200px;
+	cursor: pointer;
+}
+
+.input3, .input4
+{
+	width: 100px;
+	cursor: pointer;
+}
+
+input[type="text"]
+{
+	height: 30px;
+	width: 300px;
+}
