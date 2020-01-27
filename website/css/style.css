@@ -1,0 +1,49 @@
+
+header{
+    border-top: solid black;
+    margin-top: 30px ;
+
+}
+footer{
+    border-bottom: solid black;
+    margin-bottom: 30px;
+
+}
+body{
+    margin: 5px 100px ;
+    background-color: lightblue;
+
+   
+
+}
+
+h1{
+
+    color: blue;
+    background-color:rgb(236, 233, 233);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#move-left {
+    text-align: left;
+    text-decoration-line: underline
+}
+
+h2{
+    color: rgb(65, 65, 151));
+    background-color: rgb(236, 233, 233);
+    text-align: center;
+  
+}
+
+h3{
+    text-align: left;
+}
+
+#horizontal-list li {
+    
+    display: inline;
+    text-align: center;
+
+}
