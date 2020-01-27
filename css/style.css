@@ -1,0 +1,79 @@
+
+hr.big{
+  border: 3px solid black;
+}
+body {
+    background-color: blanchedalmond;
+
+}
+div {
+ text-align: right;
+}
+/*img.Imgright{
+    float: right;
+   height: 35%;
+   width: 35%;
+     border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 240px;
+}
+*/
+h4{
+    text-align: justify;
+    font-family: "Times New Roman", Times, serif;
+    font-style: normal;
+    font-weight: normal;
+}
+h4.awesome{
+  font-weight: bold;  
+}
+h3{
+    text-align: justify;
+    /*font-weight: normal;*/
+    font-style: normal;
+    font-family: "Times New Roman", Times, serif;
+}
+h2{
+    text-align: justify;
+}
+.cent {
+    text-align: center;
+}
+a{
+
+    text-align: center;
+    color: black;
+}
+h1.abot{
+    text-align: justify;
+}
+h5{
+    text-align: justify;
+}
+.intro{
+        display: flex;
+    padding: 20px 0 ;
+    margin: 9px ;
+    line-height: 2;
+    border-top: midnightblue solid 1px;
+    border-bottom: midnightblue solid 1px;
+}
+.main{
+      width: 50%;
+   padding-left: 10px;
+   text-align: justify;
+}
+.pic{
+       width: 50%;
+    border:midnightblue solid 1px;
+    padding-right: 10px; 
+    align-items: center;
+}
+.im{
+ 
+  text-align: center; 
+       border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+}
