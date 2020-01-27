@@ -1,0 +1,68 @@
+body{
+
+
+    font-family: 'Lucida Grande';
+    font: bold;
+
+}
+
+footer hr{
+   
+    background-color:black;
+
+}
+
+#big{
+
+    margin: 60px 10px;
+    height: 4px;
+    background-color:black;
+}
+h1{
+    font-size: 30px;
+    font-weight: bolder;
+}
+header{
+    text-align: center;
+}
+a:hover{
+    color: gray;
+    text-decoration-line: underline;
+}
+main{
+    width: 80vw;
+    margin: auto;
+    font-size: 20px;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+nav a{
+    color:black;
+    text-decoration: none;
+    font-size: 28px;
+    margin: 20px;
+}
+
+#navfooter{
+    font-size: 28px;
+}
+
+.headerA {
+
+    font-size: 32px;
+    font-weight: bold;
+
+}
+li{
+    margin: 30px;
+}
+
+footer{
+    clear: both;
+    text-align: center;
+
+}
