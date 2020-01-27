@@ -21,6 +21,10 @@ footer{
     margin: 5px 0;
     padding-bottom: 50px;
 }
+h3,h4 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
 .container {
     margin: 30px;
     border-top: midnightblue solid 5px;
@@ -35,18 +39,20 @@ footer{
     /* padding: 0 100px; */
     justify-content: center;
     padding-top: 30px;
+    list-style-type: none;
+    padding: 5px 15px 5px 15px;
+    font-weight: 800;
+    font-size: 1.2em;
 }
 
 ul li a  {
     text-decoration: none; 
-    color: midnightblue;   
+    color: midnightblue; 
+    padding: 5px;  
 }
-ul li { 
-    list-style-type: none;
-    padding: 5px 15px 5px 15px;
-   font-weight: 800;
+.nav ul li { 
     align-items: center;
-    font-size: 1.2em;
+    
     font-style: italic;
 }
 
@@ -73,14 +79,23 @@ ul li {
    
 }
 .main{
-   width: 90%;
-    border:red solid 1px;
-    width: 10%;
+   width: 50%;
+   padding-left: 10px;
+   
+    
+
 }
 
 .photo-fram {
-    width: 70%;
+    width: 50%;
     border:midnightblue solid 1px;
+
+   
+}
+.photo-fram img{
+    width:100%;
+    padding-top:10px;
+    align-items: center;
 }
 footer li {
     text-transform: capitalize;
@@ -96,12 +111,26 @@ footer li {
 }
 
 
-//////////////
+
 
 .info
 {
     text-align: left;
-    border:red solid 1px;
-    margin: 0 5px;
+    margin: 0 15px;
+    padding-bottom: 20px;
     border-top:  midnightblue solid 1px;;;
+}
+.list-work  li {
+    padding-bottom: 50px;
+}
+.bold{
+    font-weight: bolder;
+}
+
+.list-work img {
+    border: black solid 1px;
+}
+.list-eduction
+{
+    list-style-type: none;
 }
